@@ -1,6 +1,6 @@
 # aula 1 
-## Explição do repositório (extra)
-### Primeio exercício na cubos academy, foi pedido pra criar um hello-world.js e depois fazer um commit do arquivo.
+## Explição do repositório (atividade extra)
+### Primeio exercício na cubos academy, foi pedido pra criar um hello-world.js e depois fazer um commit do arquivo.Fazer este "readme" foi uma atividade extra.
 
 # codigos que eu usei no commit(depois de ja ter criado o diretório)
 ```
